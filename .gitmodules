@@ -8,3 +8,8 @@
 	url = https://github.com/nx10/httpgd
 	shallow = true
 	registered = true
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/nx10/unigd
+	shallow = true
+	registered = false
