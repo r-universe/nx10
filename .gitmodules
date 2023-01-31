@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/nx10/httpgd
+	shallow = true
+	registered = true
