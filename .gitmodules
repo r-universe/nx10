@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/nx10/httpgd
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
